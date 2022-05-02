@@ -1,0 +1,16 @@
+{
+  "name": "vechain",
+  "version": "1.0.0",
+  "description": "Test VeChain Stuff",
+  "main": "index.js",
+  "repository": "https://github.com/ActionJackson86/VeChain",
+  "author": "Jackson Roach",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "truffle": "^5.5.12"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
